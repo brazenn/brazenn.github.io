@@ -13,3 +13,20 @@ search: false
     padding: 0 50px;
     float: initial;
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination--pager {
+    width: 45%;
+}
+
+.pagination--pager:first-child {
+    margin-right: 10px;
+}
+
+.pagination--pager:last-child {
+    margin-left: 10px;
+}

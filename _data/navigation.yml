@@ -3,3 +3,5 @@ main:
     url: /posts/
   - title: "Категории"
     url: /categories/
+  - title: "About"
+    url: /about/
