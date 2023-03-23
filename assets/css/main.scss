@@ -30,3 +30,19 @@ search: false
 .pagination--pager:last-child {
     margin-left: 10px;
 }
+
+.footer-container {
+    display: flex;
+}
+
+.page__footer-copyright {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.footer-btns .pagination--pager {
+    padding: 10px 15px;
+    width: initial;
+    font-size: 16px;
+}
