@@ -81,3 +81,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository: interception123/test_pages2
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
